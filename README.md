@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm a passionate web developer focused on building meaningful, user-centered applications. <br>I specialize in Python, with strong experience in both Django and Flask, and I've built full-stack projects like a mental health care website and an appointment scheduling system. <br>I love working on responsive designs with HTML/CSS, managing code with GitHub, and I'm always curious and eager to learn. <br>Open to collaboration and cool new projects!
+Hi there! I'm a passionate software engineer focused on building meaningful, user-centered applications. <br>I specialize in Python, with strong experience in both Django and Flask, and I've built full-stack projects like a mental health care website and an appointment scheduling system. <br>I love working on responsive designs with HTML/CSS, managing code with GitHub, and I'm always curious and eager to learn. <br>Open to collaboration and cool new projects!
 
 
 ## 🌐 Socials:
